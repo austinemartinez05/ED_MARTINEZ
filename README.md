@@ -21,11 +21,11 @@ KINSOCIAL APP.
  # Index Screen
 <img src="assets/images/index.png">
 
+# Sign In Screen
+<img src="assets/images/sign in.png">  
+
 # Sign Up Screen
 <img src="assets/images/sign up.png">  
-
-# login Screen
-<img src="assets/images/sign in.png">  
 
 # Tabs Screen
 <img src="assets/images/tabs screen.png">
