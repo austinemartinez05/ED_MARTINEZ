@@ -1,4 +1,4 @@
-# SCHEDULE
+# KINSOCIAL
 KINSOCIAL APP.
 
 # Features
