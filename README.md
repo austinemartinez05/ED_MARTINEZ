@@ -19,13 +19,13 @@ KINSOCIAL APP.
 * HTML, CSS and JS
 
  # Index Screen
-<img src="assets/images/index.jpg">
+<img src="assets/images/index.png">
 
 # Sign Up Screen
-<img src="assets/images/sign up.jpg">  
+<img src="assets/images/sign up.png">  
 
 # login Screen
-<img src="assets/images/sign in.jpg">  
+<img src="assets/images/sign in.png">  
 
 # Tabs Screen
-<img src="assets/images/tabs screen.jpg">
+<img src="assets/images/tabs screen.png">
