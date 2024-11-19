@@ -22,10 +22,10 @@ KINSOCIAL APP.
 <img src="assets/images/index.jpg">
 
 # Sign Up Screen
-<img src="assets/images/sign-up.jpg">  
+<img src="assets/images/sign up.jpg">  
 
 # login Screen
-<img src="assets/images/sign-in.jpg">  
+<img src="assets/images/sign in.jpg">  
 
 # Tabs Screen
-<img src="assets/images/tabs-screen.jpg">
+<img src="assets/images/tabs screen.jpg">
